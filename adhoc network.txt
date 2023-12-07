@@ -1,0 +1,7 @@
+1)take two wireless routers and four pc's
+2)in routers>gui>wireless>basic>type ssid as csdept
+3)then wireless security select wpa2 personal set password
+4)administration>remote access enable
+5)pc convert to wireless
+6)pc>desktop>pc wireless
+7)connect> refresh> connect

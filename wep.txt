@@ -1,0 +1,11 @@
+1)take two pc's with ip address: 192.168.1.2, 192.168.1.1(default) and 192.168.2.1, 192.168.2.1 (default)
+2)take two switches
+3)take two routers 1841 from mislleneous and configure them
+4)connect all these with simple cable and router with serial cable.
+5)take wireless router wrt300n and one pc 
+6)connect wireless router with router and switch
+7)wireless router>gui>setup>basic>change ip address o to 1
+8)wireless router>gui>wireless>wireless security>wep>and create key1 save
+9)in pc change to wireless
+10)in pc>config>wireless>wep>key1
+11)give rip to both routers

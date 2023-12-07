@@ -1,0 +1,7 @@
+1)select wireless router and one pc
+2)in wireless router>gui>wireless>wireless security>wpa personal>cshub1234 
+3)in pc> convert to wireless
+4)in pc>desktop>pc wireless> profile> new
+5)enter password(cshub1234)
+6)connect
+7)check profiles

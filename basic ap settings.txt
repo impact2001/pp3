@@ -1,0 +1,6 @@
+1)take two access points, two routers and four pc's
+2)in access point> port1> select wpa2psk create password
+3)in pc convert to wireless give static ip address also default gateway
+4)in pc>config>wireless> wpa2psk enter password
+5)in router set fast ethernet and serial
+6)router rip
